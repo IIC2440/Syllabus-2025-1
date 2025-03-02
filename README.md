@@ -1,4 +1,4 @@
-# IIC2440 - Procesamiento de Datos Masivos 2024-1
+# IIC2440 - Procesamiento de Datos Masivos 2025-1
 
 En este curso, el alumno aprenderá diversas técnicas utilizadas en la actualidad para manejar grandes cantidades de datos. Estas técnicas serán abordadas desde sus fundamentos hasta su implementación.
 
