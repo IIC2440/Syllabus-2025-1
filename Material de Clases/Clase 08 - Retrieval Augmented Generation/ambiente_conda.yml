@@ -1,0 +1,16 @@
+name: st_env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - jupyter
+  - pip:
+      - torch==2.2.2
+      - torchvision==0.17.2
+      - sentence-transformers==2.7.0
+      - transformers==4.40.1
+      - langchain==0.1.20
+      - langchain-chroma==0.1.0
+      - langchain-openai==0.1.7
