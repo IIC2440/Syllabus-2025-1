@@ -1,6 +1,7 @@
 # Instalación MillenniumDB Docker
 
 ## 1. Compilar imagen
+Para todas estas instrucciones, ubícate en el directorio raíz de la carpeta que contiene el código de MillenniumDB. 
 
 ```bash
 docker build -t mdb .
