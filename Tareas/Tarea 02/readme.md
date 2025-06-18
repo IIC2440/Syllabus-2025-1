@@ -1,1 +1,1 @@
-
+Para generar el archivo .qm, descomprimir el archivo de datos de la Tarea 1, y agregar los embeddings, que han sido generados. Encuentralos [aquí](https://drive.google.com/file/d/1_3Tn4poziIGKxDzwDVMruSvK4luGIkVK/view?usp=sharing)
